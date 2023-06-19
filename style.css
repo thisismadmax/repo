@@ -50,15 +50,7 @@ body {
     align-items: center;
   }
 
-  .pnt {
-    background-image: url('/icons/');
-    background-repeat: no-repeat;
-    border: none;
-    height: 12em;
-    width: 28em;
-    background-size: cover;
-    cursor: pointer;
-  }
+
 
 
   p {
