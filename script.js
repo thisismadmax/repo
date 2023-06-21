@@ -1,7 +1,7 @@
 const contents = document.querySelector(".contents");
 const searchBtn = document.querySelector('.search-btn');
 const searchInput = document.querySelector('.search-input');
-const pntLogo = document.querySelector('.Max');
+const maxlogo = document.querySelector('.Max');
 
   searchBtn.addEventListener('click', function() {
     const query = searchInput.value;
@@ -9,7 +9,7 @@ const pntLogo = document.querySelector('.Max');
     window.location.href = searchUrl;
   });
 
-  pntLogo.addEventListener('click', function() {
+  maxlogo.addEventListener('click', function() {
     const url = '';
     window.location.href = url;
   });
