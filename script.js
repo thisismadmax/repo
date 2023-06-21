@@ -18,8 +18,8 @@ const pntLogo = document.querySelector('.pnt');
 const data = [{ "id": "1", "heading": "Shopping Links","name": "Amazon", "sub-name": "amazon.com", "link": "https://www.amazon.com/","image":"/icons/amazon.svg"},
 {"id": "2", "heading": "Shopping Links", "name": "Flipkart", "sub-name": "flipkart.com", "link": "http://www.flipkart.com", "image":"/icons/flipkart.svg"},
 {"id": "3", "heading": "Useful Links", "name": "ChatGPT", "sub-name": "chat.openai.com", "link": "https://chat.openai.com/", "image":"/icons/chatgpt.svg"},
-{"id": "4", "heading": "Useful Links", "name": "Youtube", "sub-name": "youtube.com/@ProjectNinjaTech/videos", "link": "https://www.youtube.com/@ProjectNinjaTech/videos", "image":"/icons/youtube.svg"},
-{ "id": "5", "heading": "Useful Links","name": "Github", "sub-name": "github.com/projectninjatech", "link": "https://github.com/projectninjatech","image":"/icons/github.svg"},
+{"id": "4", "heading": "Useful Links", "name": "Youtube", "sub-name": "youtube.com/", "link": "https://www.youtube.com", "image":"/icons/youtube.svg"},
+{ "id": "5", "heading": "Useful Links","name": "Github", "sub-name": "github.com/thisismadmax", "link": "https://github.com/thisismadmax","image":"/icons/github.svg"},
 { "id": "6", "heading": "Useful Links","name": "Gmail", "sub-name": "mail.google.com", "link": "https://mail.google.com/","image":"/icons/gmail.svg"},]
 
 
